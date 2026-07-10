@@ -7,11 +7,11 @@ Introduction
 
 Keeping your TomTom GPS device updated is one of the most effective ways to ensure accurate navigation, reliable routing, and access to the latest maps. Roads change constantly due to new construction, traffic regulations, and infrastructure improvements. Without regular updates, your GPS may provide outdated directions, resulting in unnecessary delays or incorrect routes.
 
-.. image:: https://img.shields.io/badge/Login%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
+.. image:: https://img.shields.io/badge/Update%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
    :align: center
-   :target: https://aclogportal.net/
-   :alt: Login Now Button
+   :target: https://allgpsupdates.com/
+   :alt: UPdate Now Button
 
 Whether you use your TomTom GPS for daily commuting, long-distance travel, or business purposes, installing the latest software and map updates helps improve device performance and navigation accuracy. This guide explains how to update your TomTom GPS, what you need before starting, common troubleshooting methods, and best practices for maintaining your navigation device.
 
